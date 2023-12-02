@@ -10,6 +10,6 @@ Awesome tech stacks
 ### DB
 
 ### Realtime server
-- (deepstream.io) - Nodejs/ Scalable real-time microservice framework.
+- (https://deepstream.io) - Nodejs/ Scalable real-time microservice framework.
 
 ### Opensource
