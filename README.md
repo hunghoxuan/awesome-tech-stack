@@ -1,15 +1,15 @@
 # awesome-tech-stack
 Awesome tech stacks
 
-# Frontend
+### Frontend
 
 
-# Backend
+### Backend
 
 
-# DB
+### DB
 
-# Realtime server
-deepstream.io - Nodejs/ Scalable real-time microservice framework.
+### Realtime server
+- (deepstream.io) - Nodejs/ Scalable real-time microservice framework.
 
-# Opensource
+### Opensource
